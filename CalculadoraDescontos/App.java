@@ -3,7 +3,7 @@ package CalculadoraDescontos;
 /**
  * App
  */
-public class App {
+public class App {//hgfghfhgf
 
     public static void main(String[] args) {
         // CRIAR O MEU OBJETO DA MINHA CLASSE CALCULADORA DESCONTO
