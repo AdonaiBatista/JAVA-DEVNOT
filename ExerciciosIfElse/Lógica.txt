@@ -1,0 +1,33 @@
+EXERCICIO 1 
+Escreva um programa para ler 2 valores (considere que não serão informados
+valores iguais) e escrever o maior deles.
+Algoritimo
+1. int valor1 = informado pelo usuario;
+2. int valor2 = informado pelo usuario;
+3. se (valor1>valor2) então {
+	valor1 é maior
+4.} caso contrario {
+	valor2 é maior
+5. imprima o maior valor
+
+EXERCICIO 2 
+Escreva um programa para ler o ano de nascimento de uma pessoa e
+escrever uma mensagem que diga se ela poderáou não votar este ano (nãoé
+necessárioconsiderar o mês em que ela nasceu).
+Algoritimo:
+1. solicitar o ano de nascimento
+2. calcular a idade (2023 - nascimento)
+3. se (idade>=16) então - pode votar
+4. caso contrario (senão) - não pode votar
+
+EXERCICIO 3
+Escreva um programa que verifique a validade de uma senha fornecida pelo
+usuário. A senha válida é o número 1234. Devem ser impressas as seguintes
+mensagens:
+ACESSO PERMITIDO caso a senha seja válida.
+ACESSO NEGADO caso a senha seja inválida.
+Algoritimo:
+1. solicitar a senha para o usuario
+2. calcular a idade (2023 - nascimento)
+3. se (idade>=16) então - pode votar
+4. caso contrario (senão) - não pode votar
