@@ -59,6 +59,18 @@ public class Exercicios {
     }
 
     public void exercicio4() {
-
+        System.out.println("Informe a quantidade de maçãs");
+        double quantiaMaca = sc.nextDouble();
+        double valorMaca = 0.30;
+        if (quantiaMaca <= 11) {
+            valorMaca = 0.30;
+        } else {
+            valorMaca = 0.25;
+        }
+        double valorTotal = valorMaca * quantiaMaca;
+        System.out.println("O valor total da compra é de R$" + valorTotal);
     }
+    }
+public void exercicio5() {
+    
 }
