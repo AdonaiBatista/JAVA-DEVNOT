@@ -46,7 +46,7 @@ public class Decisaoif {
     public void DecisaoifElse() {
         System.out.println("Informe o valor do produto:");
         double precoProduto = sc.nextDouble();
-        double percentualDesconto; 0.0;
+        double percentualDesconto= 0.0;
         // Estrutura de decisçao encadeada
         if (precoProduto > 100) {
             percentualDesconto = 0.0;
